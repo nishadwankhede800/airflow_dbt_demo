@@ -1,0 +1,13 @@
+cosmosproject:
+  outputs:
+    dev:
+      account: bq03427.us-central1.gcp
+      database: DEMO_DBT
+      password: Nishad@1997
+      role: DBT_DEV_ROLE
+      schema: PRACTICE
+      threads: 10
+      type: snowflake
+      user: nishadwankhede800
+      warehouse: DBT_DEV_WH
+  target: dev

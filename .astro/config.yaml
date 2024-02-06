@@ -1,0 +1,6 @@
+project:
+  name: airflow-dbt-demo
+webserver:
+  port: 8082
+postgres:
+  port: 5436
